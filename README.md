@@ -2,11 +2,13 @@
 
 This is a simple python script that computes basic strategy for Blackjack. To run it, simply download the script and run with Python 2.X:
 
-`python blackjack.py`
+```
+python blackjack.py
+```
 
 If everything works correctly, you will see the following output:
 
-
+```
 Basic Strategy:
 
 +-------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
@@ -86,5 +88,5 @@ Basic Strategy:
 +-------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 
 Expected Value: -0.00343776983699
-
+```
 
